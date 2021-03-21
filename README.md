@@ -1,7 +1,8 @@
 # sexy_girls_finder
+this swift scirpt allows you to pick sexy girl pics from hunderds of pics.
 
-put any image file into your document folder.
+1. put photoes into your document folder.
 
-run the mian script,
+2. run the mian script,
 
-console pops results.
+3. console pops results.
